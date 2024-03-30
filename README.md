@@ -1,4 +1,4 @@
-# [Machine Learning with Python: A Quick Guide]([https://ephemeral-malabi-5f3c48.netlify.app/](https://gorgeous-hamster-347e8f.netlify.app/))
+# [Machine Learning with Python: A Quick Guide](https://ephemeral-malabi-5f3c48.netlify.app/](https://gorgeous-hamster-347e8f.netlify.app/)
 
 The primary goal of this [ebook here](https://gorgeous-hamster-347e8f.netlify.app/) is to provide **a concise and practical introduction to main machine learning algorithms**. 
 The other goal of mine is for me to improve my Python skills, as well as my reporting skills with Quarto, which is a really cool open-source scientific and technical publishing system! 
